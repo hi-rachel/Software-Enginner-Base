@@ -1,5 +1,9 @@
 ## JavaScript 기본 데이터 타입
 
+JavaScript 기본 데이터 타입은 undefined, null, symbol, boolean, numberic, string, object가 있습니다.
+
+### 설명
+
 원시 타입 7개: number, bigint, string, boolean, undefined, null, symbol
 
 참조 타입: object (배열, 함수 포함)
@@ -9,6 +13,8 @@
 - number → 정수/실수, NaN, Infinity
 
 - bigInt → 큰 정수 (123n)
+
+> number와 bigint를 묶어 Numeric이라고 함
 
 - string → 문자열 ("abc")
 
